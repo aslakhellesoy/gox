@@ -1,4 +1,4 @@
-module github.com/mitchellh/gox
+module github.com/aslakhellesoy/gox
 
 require (
 	github.com/hashicorp/go-version v1.0.0
